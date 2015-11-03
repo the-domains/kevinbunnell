@@ -1,0 +1,23 @@
+name: KevinBunnell
+favicon: null
+layout_spectrum: 0.4500493831001222
+typography_spectrum: 0.6943966904655099
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9231618710327893
+  lightness: 0.38053150940686464
+  saturation: 0.8286958888638765
+  rhythmicContrast: 0.7219207459129393
+purpose: []
